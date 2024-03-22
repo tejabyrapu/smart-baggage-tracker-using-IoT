@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"Uwifi",1," Wifi Module (ESP8266)"
+"U4",1," 3.3V Regulator [LD1117V33]"
+"BAT3",1," 9V Battery"
+"PIEZO1",1," Piezo"
+"Cc1, Cc2",2,"10 uF, 16 V Polarized Capacitor"
+"U1",1," Arduino Uno R3"
